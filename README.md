@@ -1,6 +1,20 @@
-# Nuxt 3 Minimal Starter
+---
+Build Faster, Design Better with QuasarUI Components and Templates.
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Try [QuasarUI now](https://www.quasarui.com/)
+---
+
+
+[<img src="https://www.quasarui.com/img/og.webp">](https://www.quasarui.com/)
+
+Build Faster, Design Better with QuasarUI Components and Templates.
+
+QuasarUI is a collection of templates and over 480 beautifully crafted UI components built with Qusar, aimed at making your development process easier and faster.
+
+
+# Nuxt 3 Socket Chatapp
+
+Look at the [Youtube Video](https://youtu.be/R-1EoDMfSnI)
 
 ## Setup
 
